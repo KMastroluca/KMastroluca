@@ -10,8 +10,6 @@ Welcome to my GitHub profile! I'm Lorenzo A. Banks, a professional full-stack de
 
 As a professional programmer, I have expertise in the following programming languages and tools:
 
-## 🛠 Skills
-
 | Programming Languages | Web Development | Other Skills             |
 |-----------------------|-----------------|--------------------------|
 | Python 🐍             | React ⚛️       | Ableton Live 🎛️          |
