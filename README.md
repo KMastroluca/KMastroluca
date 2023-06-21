@@ -10,46 +10,18 @@ Welcome to my GitHub profile! I'm Lorenzo A. Banks, a professional full-stack de
 
 As a professional programmer, I have expertise in the following programming languages and tools:
 
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li><b>Python</b> 🐍</li>
-        <li><b>JavaScript</b> 🌐</li>
-        <li><b>Java</b> ☕</li>
-        <li><b>Rust</b> 🦀 ~[stackoverflow.com](https://thenewstack.io/the-case-for-rust-as-the-future-of-javascript-infrastructure/)~</li>
-        <li><b>C</b> 🖥️</li>
-        <li><b>C++</b> 🎛️</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li><b>TypeScript</b> 📘</li>
-        <li><b>React</b> ⚛️</li>
-        <li><b>Vue</b> 🖼️</li>
-        <li><b>HTML</b> 📄</li>
-        <li><b>CSS</b> 🎨</li>
-        <li><b>Go</b> 🚦</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <ul>
-        <li><b>Ableton Live</b> 🎛️</li>
-        <li><b>FL Studio</b> 🎧</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li><b>Business Development</b> 📈</li>
-        <li><b>Marketing</b> 📊</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+## 🛠 Skills
 
-![Skills Image](your-skills-image-url)
+| Programming Languages | Web Development | Other Skills             |
+|-----------------------|-----------------|--------------------------|
+| Python 🐍             | React ⚛️       | Ableton Live 🎛️          |
+| JavaScript 🌐         | Vue 🖼️         | FL Studio 🎧             |
+| Java ☕               | HTML 📄        | Business Development 📈  |
+| Rust 🦀               | CSS 🎨         | Marketing 📊             |
+| C 🖥️                  | TypeScript 📘  |                           |
+| C++ 🎛️                | Go 🚦           |                           |
+
+![Skills Image](https://cdn.pixabay.com/photo/2016/11/23/14/45/coding-1853305_1280.jpg)
 
 ## 🌐 Social Media
 
@@ -59,7 +31,7 @@ Connect with me on social media platforms to stay updated on my latest projects 
 - [**LinkedIn** 💼](your-linkedin-url)
 - [**SoundCloud** 🎵](your-soundcloud-url)
 
-![Social Media Image](your-social-media-image-url)
+![Social Media Image](https://cdn.pixabay.com/photo/2014/03/22/22/15/social-media-292988_1280.jpg)
 
 ## 📚 Currently Banging
 
@@ -73,7 +45,7 @@ I find that my coding skills are enhanced when I immerse myself in the *raw ener
 
 Feel free to listen to these tracks and experience the *raw energy* that fuels my coding sessions! 🎧🔥
 
-![Music Image](your-music-image-url)
+![Music Image](https://cdn.pixabay.com/photo/2017/11/10/20/02/pro-studio-2937531_1280.jpg)
 
 ## 📝 Why README is Important
 
