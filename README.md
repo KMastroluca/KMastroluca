@@ -43,7 +43,7 @@ I find that my coding skills are enhanced when I immerse myself in the *raw ener
 
 Feel free to listen to these tracks and experience the *raw energy* that fuels my coding sessions! 🎧🔥
 
-![Music Image](https://cdn.pixabay.com/photo/2017/11/10/20/02/pro-studio-2937531_1280.jpg)
+![Music Image]("https://cdn.pixabay.com/photo/2017/11/10/20/02/pro-studio-2937531_1280.jpg")
 
 ## 📝 Why README is Important
 
