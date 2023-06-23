@@ -41,7 +41,7 @@ I find that my coding skills are enhanced when I immerse myself in the *raw ener
 
 Feel free to listen to these tracks and experience the *raw energy* that fuels my coding sessions! 🎧🔥
 
-![Music Image]()
+![Music Image](https://github.com/KMastroluca/KMastroluca/blob/main/assets/images/github-music-banner-anim.gif)
 
 ## 📝 Why README is Important
 
