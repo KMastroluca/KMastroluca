@@ -1,6 +1,6 @@
 # Lorenzo A. Banks' GitHub Profile Readme
 
-![Lorenzo A. Banks' GitHub Banner](your-banner-image-url)
+![Lorenzo A. Banks' GitHub Banner]("https://github.com/KMastroluca/KMastroluca/blob/main/assets/images/github-header.png")
 
 🚀 Full-Stack Developer | 🎵 Hip-Hop Artist | 🎹 Music Producer | 📈 Entrepreneur
 
@@ -19,7 +19,7 @@ As a professional programmer, I have expertise in the following programming lang
 | C 🖥️                  | TypeScript 📘  |                           |
 | C++ 🎛️                | Go 🚦           |                           |
 
-![Skills Image](https://cdn.pixabay.com/photo/2016/11/23/14/45/coding-1853305_1280.jpg)
+![Skills Image]()
 
 ## 🌐 Social Media
 
