@@ -1,6 +1,6 @@
 # Lorenzo A. Banks' GitHub Profile Readme
 
-![Lorenzo A. Banks' GitHub Banner]("https://github.com/KMastroluca/KMastroluca/blob/main/assets/images/github-header.png")
+![Lorenzo A. Banks' GitHub Banner](https://github.com/KMastroluca/KMastroluca/blob/main/assets/images/github-header.png)
 
 🚀 Full-Stack Developer | 🎵 Hip-Hop Artist | 🎹 Music Producer | 📈 Entrepreneur
 
