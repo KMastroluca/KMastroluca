@@ -6,6 +6,9 @@ Welcome to my GitHub profile! I'm Lorenzo A. Banks, a professional full-stack de
 
 ## 🛠 Skills
 
+
+![Social Media Image](https://github.com/KMastroluca/KMastroluca/blob/main/assets/images/github-skillset.png)
+
 As a professional programmer, I have expertise in the following programming languages and tools:
 
 | Programming Languages | Web Development | Other Skills             |
@@ -17,16 +20,10 @@ As a professional programmer, I have expertise in the following programming lang
 | C 🖥️                  | TypeScript 📘  |                           |
 | C++ 🎛️                | Go 🚦           |                           |
 
-![Skills Image]()
-
 ## 🌐 Social Media
 
 As Im Currently Incarcerated I Am Not Allowed To Have Social Media At The Moment, However, People Who Wish To Work With Me 
 Are Encouraged To Reach Out In The Form Of A Github Follow, Comments, And Some Project Contributions!
-
-
-
-![Social Media Image](https://github.com/KMastroluca/KMastroluca/blob/main/assets/images/github-skillset.png)
 
 ## 📚 Currently Banging
 
@@ -41,6 +38,34 @@ I find that my coding skills are enhanced when I immerse myself in the *raw ener
 Feel free to listen to these tracks and experience the *raw energy* that fuels my coding sessions! 🎧🔥
 
 ![Music Image](https://github.com/KMastroluca/KMastroluca/blob/main/assets/images/github-music-banner-anim.gif)
+
+## ☸️ Projects That Im Considering
+
+# 🪙 Blockchain Technology
+- My Own Custom Crypto Token 💰
+- A Blockchain For Music Ownership Rights 🎵
+
+# 🧑‍🤝‍🧑 P2P Networking
+- Encrypted P2P Messaging App 📱
+- P2P Transaction System (Escrow) 💸
+
+# 🤑 E-Commerce
+- Anon Crypto-Based Darknet Market 💱
+- Custom Point of Sale Systems for Niche Businesses 🏛️
+
+# 🤖 Web Scraping / Automation
+- Auto Checkout Bots For Sneakers, Etc. 👟
+- Custom Web Scraping Utility 📊
+- Spotify/Apple Music Streaming Bot 📊
+- Social Media Engagement Bot 📊
+
+
+ # ⁉️ Cybersecurity [Or Lack There Of]
+ - Reverse Shell For Websites & Linux Servers #️⃣
+ - Auto SQL Injection Tool 🏴
+ - Antibot For Phishing Pages 🚷
+ - Phishing Page Framework 🔐
+ - And More...
 
 ## 📝 Why README is Important
 
