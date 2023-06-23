@@ -1,5 +1,3 @@
-# Lorenzo A. Banks' GitHub Profile Readme
-
 ![Lorenzo A. Banks' GitHub Banner](https://github.com/KMastroluca/KMastroluca/blob/main/assets/images/github-header.png)
 
 🚀 Full-Stack Developer | 🎵 Hip-Hop Artist | 🎹 Music Producer | 📈 Entrepreneur
@@ -29,7 +27,7 @@ Connect with me on social media platforms to stay updated on my latest projects 
 - [**LinkedIn** 💼](your-linkedin-url)
 - [**SoundCloud** 🎵](your-soundcloud-url)
 
-![Social Media Image](https://cdn.pixabay.com/photo/2014/03/22/22/15/social-media-292988_1280.jpg)
+![Social Media Image](https://github.com/KMastroluca/KMastroluca/blob/main/assets/images/github-skillset.png)
 
 ## 📚 Currently Banging
 
@@ -43,7 +41,7 @@ I find that my coding skills are enhanced when I immerse myself in the *raw ener
 
 Feel free to listen to these tracks and experience the *raw energy* that fuels my coding sessions! 🎧🔥
 
-![Music Image]("https://cdn.pixabay.com/photo/2017/11/10/20/02/pro-studio-2937531_1280.jpg")
+![Music Image]()
 
 ## 📝 Why README is Important
 
