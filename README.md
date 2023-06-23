@@ -41,26 +41,26 @@ Feel free to listen to these tracks and experience the *raw energy* that fuels m
 
 ## ☸️ Projects That Im Considering
 
-# 🪙 Blockchain Technology
+### 🪙 Blockchain Technology
 - My Own Custom Crypto Token 💰
 - A Blockchain For Music Ownership Rights 🎵
 
-# 🧑‍🤝‍🧑 P2P Networking
+### 🧑‍🤝‍🧑 P2P Networking
 - Encrypted P2P Messaging App 📱
 - P2P Transaction System (Escrow) 💸
 
-# 🤑 E-Commerce
+### 🤑 E-Commerce
 - Anon Crypto-Based Darknet Market 💱
 - Custom Point of Sale Systems for Niche Businesses 🏛️
 
-# 🤖 Web Scraping / Automation
+### 🤖 Web Scraping / Automation
 - Auto Checkout Bots For Sneakers, Etc. 👟
 - Custom Web Scraping Utility 📊
 - Spotify/Apple Music Streaming Bot 📊
 - Social Media Engagement Bot 📊
 
 
- # ⁉️ Cybersecurity [Or Lack There Of]
+ ### ⁉️ Cybersecurity [Or Lack There Of]
  - Reverse Shell For Websites & Linux Servers #️⃣
  - Auto SQL Injection Tool 🏴
  - Antibot For Phishing Pages 🚷
