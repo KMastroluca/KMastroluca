@@ -21,11 +21,10 @@ As a professional programmer, I have expertise in the following programming lang
 
 ## 🌐 Social Media
 
-Connect with me on social media platforms to stay updated on my latest projects and endeavors:
+As Im Currently Incarcerated I Am Not Allowed To Have Social Media At The Moment, However, People Who Wish To Work With Me 
+Are Encouraged To Reach Out In The Form Of A Github Follow, Comments, And Some Project Contributions!
 
-- [**Twitter** 🐦](your-twitter-url)
-- [**LinkedIn** 💼](your-linkedin-url)
-- [**SoundCloud** 🎵](your-soundcloud-url)
+
 
 ![Social Media Image](https://github.com/KMastroluca/KMastroluca/blob/main/assets/images/github-skillset.png)
 
